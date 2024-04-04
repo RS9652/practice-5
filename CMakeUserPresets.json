@@ -1,0 +1,10 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\Users\\HUAWEI\\Desktop\\practice-5-draft\\build\\generators\\CMakePresets.json",
+        "C:\\Users\\HUAWEI\\Desktop\\practice-5-draft\\cmake-build-debug\\conan\\build\\Debug\\generators\\CMakePresets.json"
+    ]
+}
